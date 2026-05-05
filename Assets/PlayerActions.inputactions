@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "PlayerActions",
+    "maps": [
+        {
+            "name": "- Player (default)",
+            "id": "9cb95337-bad7-49a0-a928-2f8579b7f3b8",
+            "actions": [
+                {
+                    "name": "- Move (Value Type: Vector2)",
+                    "type": "Button",
+                    "id": "e582c5bf-5224-4f83-a2b1-cc581eec827e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "14525cfd-d1f8-4e51-bb33-72baaf53837c",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "- Move (Value Type: Vector2)",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
